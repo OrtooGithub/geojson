@@ -1,0 +1,5 @@
+Source:
+	https://data.opendatasoft.com/explore/dataset/geonames-postal-code%40public/export/?q=mexico&refine.country_code=MX
+
+Licence:
+	https://creativecommons.org/licenses/by/4.0/
