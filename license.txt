@@ -1,0 +1,2 @@
+This is a collection of files from other sources.  No additional licenses are applied to these files.
+Licenses for the individual files are found in their corresponding folders.
